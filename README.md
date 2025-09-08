@@ -21,7 +21,6 @@ code texts/
 - **P4-based implementation** for programmable data-plane packet processing.
 - **Selective Repeat ARQ protocol** written in structured code format.
 - Analysis of packet retransmission, error handling, and throughput.
-- Documentation report (`.pdf`) explaining methodology and results.
 
 ---
 
